@@ -1,0 +1,1 @@
+Since 180 exceeds the threshold of 150, binary thresholding assigns it the maximum value of 255, hence it turns that pixel white in the output binary image.
